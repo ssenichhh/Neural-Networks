@@ -17,13 +17,13 @@ Fashion MNIST is a dataset of Zalando's article images, consisting of a training
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Neural-Networks/Fashion-MNIST.git
+    git clone https://github.com/Fashion MNIST/Fashion_MNIST.ipynb
 
     ```
 
 2. **Navigate to the directory**:
     ```bash
-    cd Fashion-MNIST
+    cd Fashion MNIST
     ```
 
 
