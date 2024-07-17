@@ -51,7 +51,7 @@ The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/CIFAR-10-CNN.git
+    git clone https://github.com/ssenichhh/Neural-Networks/CIFAR-10.git
     ```
 
 2. **Install the required packages:**
