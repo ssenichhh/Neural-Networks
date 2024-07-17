@@ -17,18 +17,15 @@ Fashion MNIST is a dataset of Zalando's article images, consisting of a training
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-repository/autoencoder-fashion-mnist.git
+    git clone https://github.com/Neural-Networks/Fashion-MNIST.git
+
     ```
 
 2. **Navigate to the directory**:
     ```bash
-    cd autoencoder-fashion-mnist
+    cd Fashion-MNIST
     ```
 
-3. **Run the Jupyter Notebook**:
-    ```bash
-    jupyter notebook Autoencoder_Fashion_MNIST.ipynb
-    ```
 
 ## Results
 
